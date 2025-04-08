@@ -1,4 +1,4 @@
 # 1st-repo
 This is my first repository
 <br >
-Author-Tanish Agarwal
+Author-Tanish Agarwall
